@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Anywhere Auto Assist | Mobile Mechanic Spokane</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<style>
+
+body{
+font-family: Arial, sans-serif;
+background:#0a0a0a;
+color:white;
+margin:0;
+}
+
+header{
+text-align:center;
+padding:60px 20px;
+}
+
+h1{
+font-size:40px;
+color:#2aa9ff;
+}
+
+h2{
+color:#2aa9ff;
+}
+
+.section{
+padding:40px 20px;
+max-width:900px;
+margin:auto;
+}
+
+.button{
+display:inline-block;
+background:#2aa9ff;
+color:white;
+padding:15px 25px;
+margin:10px;
+border-radius:6px;
+text-decoration:none;
+font-size:18px;
+}
+
+.services{
+display:grid;
+grid-template-columns:1fr 1fr;
+gap:20px;
+}
+
+.card{
+background:#111;
+padding:20px;
+border-radius:8px;
+}
+
+footer{
+text-align:center;
+padding:40px;
+color:#aaa;
+}
+
+</style>
+</head>
+
+<body>
+
+<header>
+
+<h1>Anywhere Auto Assist</h1>
+
+<p>Mobile Auto Service — We Come To You</p>
+
+<p>
+Serving Spokane • Spokane Valley • Coeur d'Alene
+</p>
+
+<a class="button" href="tel:7702619882">Call Now</a>
+
+<a class="button" href="sms:7702619882">Text for Service</a>
+
+</header>
+
+<div class="section">
+
+<h2>Services</h2>
+
+<div class="services">
+
+<div class="card">
+<h3>Roadside Assistance</h3>
+Flat tire change<br>
+Jump starts<br>
+Fuel delivery
+</div>
+
+<div class="card">
+<h3>Auto Repair</h3>
+Battery repair<br>
+Brake service<br>
+Diagnostics<br>
+Oil changes
+</div>
+
+<div class="card">
+<h3>Auto Detailing</h3>
+Interior & exterior detail<br>
+Paint correction<br>
+Scratch removal
+</div>
+
+<div class="card">
+<h3>Headlight Restoration</h3>
+Remove oxidation<br>
+Improve night visibility
+</div>
+
+</div>
+
+</div>
+
+<div class="section">
+
+<h2>Service Area</h2>
+
+Spokane<br>
+Spokane Valley<br>
+Coeur d'Alene<br>
+Post Falls<br>
+Hayden
+
+</div>
+
+<div class="section">
+
+<h2>Contact</h2>
+
+Phone: (770) 261-9882
+
+<br><br>
+
+<a class="button" href="tel:7702619882">Call Now</a>
+
+<a class="button" href="sms:7702619882">Text for Service</a>
+
+</div>
+
+<footer>
+
+Anywhere Auto Assist<br>
+Mobile Mechanic & Roadside Assistance
+
+</footer>
+
+</body>
+</html>
